@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cookies-crochet-counter/static/css/main.a645f215.css",
-    "main.js": "/cookies-crochet-counter/static/js/main.9ce29af9.js",
+    "main.css": "/cookies-crochet-counter/static/css/main.336c521f.css",
+    "main.js": "/cookies-crochet-counter/static/js/main.fb08392b.js",
     "static/js/787.4fc49a12.chunk.js": "/cookies-crochet-counter/static/js/787.4fc49a12.chunk.js",
     "index.html": "/cookies-crochet-counter/index.html",
-    "main.a645f215.css.map": "/cookies-crochet-counter/static/css/main.a645f215.css.map",
-    "main.9ce29af9.js.map": "/cookies-crochet-counter/static/js/main.9ce29af9.js.map",
+    "main.336c521f.css.map": "/cookies-crochet-counter/static/css/main.336c521f.css.map",
+    "main.fb08392b.js.map": "/cookies-crochet-counter/static/js/main.fb08392b.js.map",
     "787.4fc49a12.chunk.js.map": "/cookies-crochet-counter/static/js/787.4fc49a12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a645f215.css",
-    "static/js/main.9ce29af9.js"
+    "static/css/main.336c521f.css",
+    "static/js/main.fb08392b.js"
   ]
 }
