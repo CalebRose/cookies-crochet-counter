@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App container-sm">
-      <div className="row mt-3 justify-content-center d-flex">
+      <div className="row mt-1 justify-content-center d-flex">
         <div className="mt-3">
           <h1 className="title">Cookie's Crochet Counts</h1>
         </div>
